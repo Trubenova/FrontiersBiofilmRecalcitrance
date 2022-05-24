@@ -14,7 +14,7 @@ This Jupyter notebook contains code to simulate single treatment at given concen
 Note that a change of the name and concentration is required to simulate various scenarios (different panels of figure 5). 
 
 ### EvolutinaryExperiment_passages.ipynb
-Code in this Jupyter notebook is used to simulate a passage experiment.  Results of these simulations are shown in Figure 5. 
+Code in this Jupyter notebook is used to simulate a passage experiment. For various scenarios (plankton, biofilm, or individual mechanisms), benefit and cost associated with the biofilm lifestyle needs to be defined. Results of these simulations are shown in Figure 6.
 
 ### Zip files
 
