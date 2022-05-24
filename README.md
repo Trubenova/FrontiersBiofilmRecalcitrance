@@ -16,6 +16,15 @@ Note that a change of the name and concentration is required to simulate various
 ### EvolutinaryExperiment_passages.ipynb
 Code in this Jupyter notebook is used to simulate a passage experiment. For various scenarios (plankton, biofilm, or individual mechanisms), benefit and cost associated with the biofilm lifestyle needs to be defined. Results of these simulations are shown in Figure 6.
 
+### Repeated treatment.ipynb
+Code in this Jupyter notebook is used to simulate a 7 day treatment, allways with the same concentration, for various concentrations. For various scenarios (plankton, biofilm, or individual mechanisms), benefit and cost associated with the biofilm lifestyle needs to be defined. Results of these simulations are shown in Figure 7.
+
+### Repeated treatment.ipynb
+Code in this Jupyter notebook is used to simulate a 7 day treatment, allways with the same concentration, for various concentrations. For various scenarios (plankton, biofilm, or individual mechanisms), benefit and cost associated with the biofilm lifestyle needs to be defined. Results of these simulations are shown in Figure 7.
+
+### Attachment_dispersal.ipynb
+Code in this Jupyter notebook is used to simulate two populations - biofilm and plankton, that are connected via dispersal. Various rates of dispersal and attachement can be specified. Results of these simulations are shown in Figure 8.
+
 ### Zip files
 
 Zip files contain either figures (Figures.zip) or simulation results used to generate these figures. 
