@@ -2,6 +2,7 @@
 
 
 ## Table of contents
+<!-- toc -->
 
 ## Introduction
 This code was used to perform simulations and to generate results and figures published in article:  Modeling polygenic antibiotic resistance evolution in biofilms. 
